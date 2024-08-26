@@ -1,0 +1,25 @@
+title: "Learn2CTF"
+tagline: "MSU Learn2CTF club"
+description: "Our website"
+github_username: hacr-lab
+baseurl: "/learn2ctf"
+url: "abcdefg"
+
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
+  - About.md
+  - Join.md
+  - Events.md
+
+# set the size of the text to 'large' or 'small', default is small
+font-size: large
