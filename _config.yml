@@ -23,6 +23,11 @@ header_pages:
   - About.md
   - Join.md
   - Events.md
+  - write_ups.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: large
+
+collections:
+    writeups:
+      output: true
